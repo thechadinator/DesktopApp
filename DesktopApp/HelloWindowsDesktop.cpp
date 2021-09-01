@@ -2,7 +2,9 @@
 // compile with: /D_UNICODE /DUNICODE /DWIN32 /D_WINDOWS /c
 
 //Colin Mason
-//GitHub Link : 
+//GitHub Link : https://github.com/thechadinator/DesktopApp
+
+
 
 #include <windows.h>
 #include <stdlib.h>
